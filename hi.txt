@@ -5,8 +5,5 @@ Class Main{
 	public void add(int a,int b){
 		System.out.println(c);
 	}
-	public void sub(int a,int b){
-		System.out.println(a-b);
-	}
-
+	
 }
