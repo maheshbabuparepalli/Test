@@ -2,11 +2,7 @@ Class Main{
 	public status void main(String args[]){
 		System.out.print("Hi");
 	}
-	public void add(int a,int b){
-		System.out.println(a+b);
-	}
 	public void sub(int a,int b){
 		System.out.println(a-b);
 	}
-
 }
