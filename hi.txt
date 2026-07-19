@@ -3,6 +3,6 @@ Class Main{
 		System.out.print("Hi");
 	}
 	public void add(int a,int b){
-		System.out.println(c);
+		System.out.println(a+b);
 	}
 }
